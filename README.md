@@ -18,5 +18,4 @@
 
   ##
  
-- 🌱 atualmente estou aprendendo JavaScript
-- 📫 contato via email
+ <a href="mailto:Guilherme.cabralllll@hotmail.com">- 📫 contato via email</a>
